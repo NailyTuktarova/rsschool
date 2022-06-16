@@ -1,0 +1,33 @@
+body{
+    width: 70%;
+    margin: auto;
+    border: 2px soid black;
+    padding: 20px;
+    font-family: Georgia, serif;
+    position: relative;
+    background-color: rgb(213, 232, 233);
+}
+.name{
+    text-align: center;
+}
+.name img {
+width: 150px;
+}
+.Content{
+    text-align: center;
+    font-size: 32px;
+}
+.Me{
+    font-size: 30px;
+}
+h1{
+    font-size: 32px;
+    }
+    h1, h2 {
+        margin-top: 1.5em;
+    }
+footer{
+    width: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
